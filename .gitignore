@@ -4,3 +4,6 @@
 .idea
 cleora-light-rust.iml
 *.out
+datasets/
+output/
+cleora-v1.2.3-x86_64-pc-windows-msvc

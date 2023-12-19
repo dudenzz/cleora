@@ -8,12 +8,20 @@ To jest fork repozytorium. Oryginalne readme znajduje się na stronie cleory. Tu
 2. Uruchomienie notebooka 'example_classification'
 
     i. Pobrałem facebook_large
+
     ii. utworzyłem w repozytorium katalog datasets/facebook_large
+
     iii. dodałem katalog datasets do .gitignore
+
     iv. utworzyłem katalog output/facebook_large
+
     v. przeniosłem plik binarny cleory do katalogu głównego repozytorium
+
     vi. dodałem plik binarny do .gitignore
+
     vii. zmieniłem nazwy plików na zgodne z utworzonym przeze mnie systemem plików (datasets, output i facebook_large)
+
     viii. zmieniłem w kodzie typy danych na takie, które nie są przestarzałe (np.int -> np.int32)
+    
     ix. test
 3. Uruchomienie notebooka '

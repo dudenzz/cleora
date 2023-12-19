@@ -17,7 +17,7 @@ To jest fork repozytorium. Oryginalne readme znajduje się na stronie cleory. Tu
 
     v. Przeniosłem plik binarny cleory do katalogu głównego repozytorium
 
-    vi. Dodałem plik binarny do .gitignore
+    vi. Dodałem plik binarny do .gitignore, oraz zmieniłem jego nazwę w kodzie
 
     vii. Zmieniłem nazwy plików na zgodne z utworzonym przeze mnie systemem plików (datasets, output i facebook_large)
 
@@ -34,4 +34,4 @@ To jest fork repozytorium. Oryginalne readme znajduje się na stronie cleory. Tu
       algo: output/facebook_large/emb__CliqueNode__CliqueNode.out epochs: 20, micro f1: 0.8867276887871853, macro f1:0.8784493199093816
 
 
-3. Uruchomienie notebooka '
+3. Uruchomienie notebooka 'example_link_prediction'. Podjęte kroki są analogiczne w stosunku do poprzedniego notebooka (w kodzie trzeba zmienić strukturę plików i katalogów; np.int -> np.int32; oraz zmienić nazwę pliku binarnego)
